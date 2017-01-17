@@ -1,5 +1,5 @@
 pandas
 argparse
 numpy
-parabam
-telomerecat
+parabam==2.2
+telomerecat==3.1
