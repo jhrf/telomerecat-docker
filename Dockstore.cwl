@@ -1,3 +1,6 @@
+#!/usr/bin/env cwl-runner
+
+class: CommandLineTool
 doc: "A docker container for the telomerecat tool" 
 id: "Telomerecat"
 label: "Telomerecat tool"
