@@ -23,6 +23,6 @@ outputs:
 
 dct:creator:
   foaf:name: JHR Farmery
-  foaf:mbox: "mailto:jhrf2@cam.ac.uk"
+  foaf:mbox: "jhrf2@cam.ac.uk"
 
 baseCommand: ["bash", "/usr/local/bin/bamstats"]
